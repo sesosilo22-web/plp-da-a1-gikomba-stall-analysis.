@@ -40,7 +40,8 @@ The project uses:
 
 The analysis recommends monitoring stock levels, restocking products that are below their reorder levels, reviewing product profitability, and investigating the improvement in Week 2 sales.
 
-## How to Run the Project
+## How to Run the Project 
+https://colab.research.google.com/drive/1yBHE1JvwP02ieADJ5g0unjiC36173HQz?usp=sharing
 
 1. Open the notebook using Google Colab.
 2. Restart the runtime.
